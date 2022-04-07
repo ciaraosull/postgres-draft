@@ -1,2 +1,7 @@
-Draft workspace to practice with chinook database using postgreSQL, psycopg2 and python
+Draft workspace to practice with chinook database using:
+postgreSQL
+Psycopg2
+SQLAlchemy
+ORM
+
 
